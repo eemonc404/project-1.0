@@ -1,0 +1,13 @@
+
+#banner {
+	padding-top: 2px;
+}
+.col-sm-4 p {
+	text-align: justify;
+	border: 3px solid black;
+}
+
+.btn {
+	padding: -0.16rem 2.14rem;
+	font-size: 0.81rem;
+}
